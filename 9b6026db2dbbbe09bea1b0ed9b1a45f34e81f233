@@ -1,0 +1,1 @@
+{"jobID":"2d498568-1598-dc08-b3f4-22ce7c09f7bf","spec":{"type":"policy","cause":{"Message":"","User":"Julius Loman \u003clomo29@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
